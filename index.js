@@ -70,3 +70,5 @@ client.on('guildMemberRemove', member => {
 
 
 client.login(TOKEN);
+
+//e
